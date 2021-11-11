@@ -56,7 +56,7 @@ Selected Relu activation for hidden layers and Sigmoid for the output layer. Sel
 
 ### Attempt #2
 Input:
-Selected Tanh activation for hidden layers and Sigmoid for the output layer. Selected 2 hidden layers with 8 and 4 neurons for each layer respectively. This gave us 441 total trainable parameters for the model. With 100 epochs for the training model, results are below. 
+Selected Tanh activation for hidden layers and Sigmoid for the output layer. Selected 2 hidden layers with 8 and 4 neurons for each layer respectively. This gave 441 total trainable parameters for the model. With 100 epochs for the training model, results are below. 
 
 
 ![Screenshot 2021-11-11 142443](https://user-images.githubusercontent.com/81407869/141377845-eb3e76bc-27f6-43e4-acfc-f7d4a434196d.jpg)
@@ -68,7 +68,7 @@ Selected Tanh activation for hidden layers and Sigmoid for the output layer. Sel
 
 ### Attempt #3
 Input:
-Selected Tanh activation for hidden layers and Sigmoid for the output layer. Selected 3 hidden layers with 70, 40 and 10 neurons for each layer respectively. This gave us 6,761 total trainable parameters for the model. With 50 epochs for the training model, results are below.
+Selected Tanh activation for hidden layers and Sigmoid for the output layer. Selected 3 hidden layers with 7, 5 and 3 neurons for each layer respectively. This gave 412 total trainable parameters for the model. With 50 epochs for the training model, results are below.
 
 ![Screenshot 2021-11-11 142727](https://user-images.githubusercontent.com/81407869/141378011-7ba7c7cc-5b19-4923-afd7-13a85186dd1f.jpg)
 
@@ -79,7 +79,7 @@ Selected Tanh activation for hidden layers and Sigmoid for the output layer. Sel
 
 ### Summary
 
-
+The model ended up with the accuracy score of 72% again after optimization. It didn't change much. The initial neural network had the accuracy score of 73%.  We can further optimize our neural network by adding more features or simply adding more data to the dataset to increase accuracy. Since our accuracy score was not particularly up to the standard with neural networks, we could have used the Random Forest classifiers. This is because random forest is a robust and accurate model due to their sufficient number of estimators and tree depth. Also the random forest models have a faster performance than neural networks. As our intented output in this particular assignment is  binary classification(whether the funding was successful or not) we can also try Logistic regression model , as its intended for binary(two-class)classification problems. 
 
 
 
