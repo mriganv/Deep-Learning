@@ -22,5 +22,7 @@ It’s best to drop most of the non-numeric features like EIN and NAME columns f
 Selected Relu activation for hidden layers and Sigmoid for the output layer. And selected 2 hidden layers with 77 and 50 neurons in each layer respectively. This gave us 7,151 total trainable parameters for the model. 
 Input:
 ![Screenshot 2021-11-10 215902](https://user-images.githubusercontent.com/81407869/141245864-601a54f3-4f40-4d99-8d90-68120c34d286.jpg)
-Result:
+
+#### Result:
+
 ![Screenshot 2021-11-10 215822](https://user-images.githubusercontent.com/81407869/141245904-5ba8dde9-ce23-4207-a57c-bf0b0623b7ac.jpg)
