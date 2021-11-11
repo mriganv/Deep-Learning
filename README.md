@@ -22,8 +22,8 @@ Got a 72.5% accuracy on the above selection.
 
 ![Screenshot 2021-11-10 215822](https://user-images.githubusercontent.com/81407869/141245904-5ba8dde9-ce23-4207-a57c-bf0b0623b7ac.jpg)
 
-#### To achieve a better target model performance, tried to add more bins for one more column in the dataset. 
-Tried three attempts to achieve the target of 75% or above target predictive accuracy.
+### To achieve a better target model performance, tried to add more bins for one more column in the dataset. 
+### Tried three attempts to achieve the target of 75% or above target predictive accuracy.
 
 ### Attempt #1
 Input:
