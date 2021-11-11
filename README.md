@@ -17,7 +17,8 @@ It’s best to drop most of the non-numeric features like EIN and NAME columns f
 Input:
 Selected Relu activation for hidden layers and Sigmoid for the output layer. Selected 2 hidden layers with 77 and 50 neurons for each layer respectively. With 100 epochs in the training model, this gave us 7,151 total trainable parameters for the model. With 100 epochs for the training model, I got the below result. 
 
-#### Result:
+Result:
+
 Got a 72.5% accuracy on the above selection.
 
 ![Screenshot 2021-11-10 215822](https://user-images.githubusercontent.com/81407869/141245904-5ba8dde9-ce23-4207-a57c-bf0b0623b7ac.jpg)
@@ -30,6 +31,7 @@ Input:
 Selected Relu activation for hidden layers and Sigmoid for the output layer. Selected 3 hidden layers with 100, 70, and 40 neurons for each layer respectively. This gave us 14,951 total trainable parameters for the model. With 100 epochs for the training model, results are below. 
 
 Result:
+
 ![Screenshot 2021-11-10 224405](https://user-images.githubusercontent.com/81407869/141250678-2a43ef24-0dc0-48fb-84cf-bc6a191443e2.jpg)
 
 
@@ -38,6 +40,7 @@ Input:
 Selected Tanh activation for hidden layers and Sigmoid for the output layer. Selected 2 hidden layers with 80 and 40 neurons for each layer respectively. This gave us 7,281 total trainable parameters for the model. With 100 epochs for the training model, results are below. 
 
 Result:
+
 ![Screenshot 2021-11-10 222755](https://user-images.githubusercontent.com/81407869/141248849-ae53ca5d-66cd-4003-af86-10a635609260.jpg)
 
 ### Attempt #3
@@ -45,6 +48,7 @@ Input:
 Selected Tanh activation for hidden layers and Sigmoid for the output layer. Selected 3 hidden layers with 70, 40 and 10 neurons for each layer respectively. This gave us 6,761 total trainable parameters for the model. With 50 epochs for the training model, results are below.
 
 Result:
+
 ![Screenshot 2021-11-10 224615](https://user-images.githubusercontent.com/81407869/141250959-3752020a-aa7d-4aed-bce4-025a7e050770.jpg)
 
 
