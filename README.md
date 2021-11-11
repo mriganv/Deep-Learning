@@ -23,7 +23,8 @@ Selected Relu activation for hidden layers and Sigmoid for the output layer. Sel
 
 Got a 73% accuracy on the above selection.
 
-![Screenshot 2021-11-10 215822](https://user-images.githubusercontent.com/81407869/141245904-5ba8dde9-ce23-4207-a57c-bf0b0623b7ac.jpg)
+![Screenshot 2021-11-11 105243](https://user-images.githubusercontent.com/81407869/141353006-f0f10987-99ce-4068-a3bc-a8442ef0c7c5.jpg)
+
 
 #### To achieve a better target model performance, tried to add more bins for one more column in the dataset. 
 #### Tried three attempts to achieve the target of 75% or above target predictive accuracy.
